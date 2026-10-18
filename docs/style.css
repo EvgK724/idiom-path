@@ -7,3 +7,39 @@
 
 /* Preserve reflow with large accessibility text on narrow screens. */
 h1,h2,h3{overflow-wrap:anywhere}.hero>*,.detail-grid>*,.answer-grid>*,.stat,.step{min-width:0}.stat strong,.stat span{overflow-wrap:anywhere}.btn{max-width:100%;min-width:0;overflow-wrap:anywhere}.ratings button{min-width:0;flex-wrap:wrap}.prompt-actions .primary{min-width:0}
+
+/* Larger type for comfortable reading and recall on phones and tablets. */
+:root{font-size:20px}
+small,.small{font-size:16px}
+.hero p,.page-title p,.translation,.usage{font-size:20px}
+.panel p,.hint-box p{font-size:19px}
+.english,.example .english,.answer .english{font-size:22px;line-height:1.5}
+.meaning,.answer .meaning{font-size:24px;line-height:1.5}
+.idiom-row strong{font-size:22px}
+.idiom-row small{font-size:15px;line-height:1.4}
+.btn,.hero .btn,.prompt-actions .btn,.ratings button{font-size:19px}
+.btn.small,.session-top .btn,.backup-actions .btn,.audio-button{font-size:17px}
+.chip,.toolbar select,.note-area label{font-size:17px}
+.toolbar input{font-size:20px}
+.step b{font-size:19px}
+.step p,.study-source p{font-size:18px}
+.study-source h3{font-size:20px}
+.study-source .limitation,.source-link{font-size:15px}
+.section-head span,.session-top p,.prompt-card .prompt-note,.schedule-item span{font-size:16px}
+.ratings small,.schedule-item small,.stat span{font-size:14px}
+.offline-status,.site-footer{font-size:14px}
+.kicker,.hint-box .kicker,.float-num{font-size:13px}
+.rail nav button{font-size:19px}
+.rail-note,.local-label,.toast,.notice{font-size:16px}
+.brand small,.top-label{font-size:12px}
+.session-top,.section-head,.schedule-item{flex-wrap:wrap}
+.schedule-item span{min-width:0;overflow-wrap:anywhere}
+@media(max-width:980px){.rail nav button{font-size:16px}.workspace{padding-bottom:calc(100px + env(safe-area-inset-bottom))}}
+@media(max-width:600px){
+  .phrase,.answer .phrase{font-size:38px}
+  .prompt-card h1{font-size:28px}
+  .prompt-card .gap{font-size:26px}
+  .toolbar select{flex-basis:100%;width:100%}
+  .ratings button{gap:8px}
+  .section-head h2{font-size:28px}
+}
