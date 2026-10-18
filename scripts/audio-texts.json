@@ -1,0 +1,502 @@
+[
+  {
+    "id": "i001",
+    "en": "a piece of cake",
+    "example": "After some practice, using the new app was a piece of cake."
+  },
+  {
+    "id": "i002",
+    "en": "break the ice",
+    "example": "I asked about her dog to break the ice."
+  },
+  {
+    "id": "i003",
+    "en": "under the weather",
+    "example": "I'm feeling under the weather, so I'll stay home tonight."
+  },
+  {
+    "id": "i004",
+    "en": "once in a blue moon",
+    "example": "We eat at expensive restaurants once in a blue moon."
+  },
+  {
+    "id": "i005",
+    "en": "better late than never",
+    "example": "I finally started learning French; better late than never."
+  },
+  {
+    "id": "i006",
+    "en": "the best of both worlds",
+    "example": "Living near the city gives us the best of both worlds."
+  },
+  {
+    "id": "i007",
+    "en": "see eye to eye",
+    "example": "We don't always see eye to eye about money."
+  },
+  {
+    "id": "i008",
+    "en": "give someone a hand",
+    "example": "Could you give me a hand moving these boxes?"
+  },
+  {
+    "id": "i009",
+    "en": "keep an eye on",
+    "example": "Please keep an eye on my bag while I order."
+  },
+  {
+    "id": "i010",
+    "en": "in the same boat",
+    "example": "We're all in the same boat after the flight cancellation."
+  },
+  {
+    "id": "i011",
+    "en": "get the hang of",
+    "example": "You'll get the hang of this camera after a few tries."
+  },
+  {
+    "id": "i012",
+    "en": "hit the books",
+    "example": "I've got an exam next week, so I'd better hit the books."
+  },
+  {
+    "id": "i013",
+    "en": "call it a day",
+    "example": "We've finished the main tasks, so let's call it a day."
+  },
+  {
+    "id": "i014",
+    "en": "on the right track",
+    "example": "Your latest draft shows that you're on the right track."
+  },
+  {
+    "id": "i015",
+    "en": "out of the blue",
+    "example": "An old school friend called me out of the blue."
+  },
+  {
+    "id": "i016",
+    "en": "a bit of a cold fish",
+    "example": "He seems a bit of a cold fish at first."
+  },
+  {
+    "id": "i017",
+    "en": "a pain in the neck",
+    "example": "Updating all these forms is a pain in the neck."
+  },
+  {
+    "id": "i018",
+    "en": "take your time",
+    "example": "Take your time with the menu; we're not in a hurry."
+  },
+  {
+    "id": "i019",
+    "en": "make up your mind",
+    "example": "I can't make up my mind about which course to choose."
+  },
+  {
+    "id": "i020",
+    "en": "change your mind",
+    "example": "I wanted tea, but I changed my mind and ordered coffee."
+  },
+  {
+    "id": "i021",
+    "en": "keep in touch",
+    "example": "We still keep in touch although we live in different cities."
+  },
+  {
+    "id": "i022",
+    "en": "lose touch",
+    "example": "We lost touch after university, then met again last year."
+  },
+  {
+    "id": "i023",
+    "en": "have a lot on your plate",
+    "example": "I have a lot on my plate this week at work."
+  },
+  {
+    "id": "i024",
+    "en": "learn by heart",
+    "example": "We had to learn a short poem by heart."
+  },
+  {
+    "id": "i025",
+    "en": "get cold feet",
+    "example": "I got cold feet just before speaking to the audience."
+  },
+  {
+    "id": "i026",
+    "en": "break someone's heart",
+    "example": "It broke her heart when her closest friend moved away."
+  },
+  {
+    "id": "i027",
+    "en": "be all ears",
+    "example": "You said you had exciting news, and I'm all ears."
+  },
+  {
+    "id": "i028",
+    "en": "a night owl",
+    "example": "I'm a night owl and often read after midnight."
+  },
+  {
+    "id": "i029",
+    "en": "an early bird",
+    "example": "She's an early bird and walks before breakfast every day."
+  },
+  {
+    "id": "i030",
+    "en": "a couch potato",
+    "example": "I became a couch potato during that long rainy weekend."
+  },
+  {
+    "id": "i031",
+    "en": "feel at home",
+    "example": "Everyone was friendly, so I quickly felt at home."
+  },
+  {
+    "id": "i032",
+    "en": "make yourself at home",
+    "example": "Come in and make yourself at home while I cook."
+  },
+  {
+    "id": "i033",
+    "en": "a small world",
+    "example": "You know my old teacher too? It's a small world."
+  },
+  {
+    "id": "i034",
+    "en": "time flies",
+    "example": "Time flies when we're talking about books we love."
+  },
+  {
+    "id": "i035",
+    "en": "better safe than sorry",
+    "example": "I'll save another copy of the file; better safe than sorry."
+  },
+  {
+    "id": "i036",
+    "en": "easier said than done",
+    "example": "Finding more free time is easier said than done."
+  },
+  {
+    "id": "i037",
+    "en": "so far so good",
+    "example": "The trip isn't over, but so far so good."
+  },
+  {
+    "id": "i038",
+    "en": "fingers crossed",
+    "example": "Fingers crossed, the weather will be good for our picnic."
+  },
+  {
+    "id": "i039",
+    "en": "miss the boat",
+    "example": "I waited too long to apply and missed the boat."
+  },
+  {
+    "id": "i040",
+    "en": "get on someone's nerves",
+    "example": "That constant phone ringing is getting on my nerves."
+  },
+  {
+    "id": "i041",
+    "en": "drive someone up the wall",
+    "example": "The endless drilling next door is driving me up the wall."
+  },
+  {
+    "id": "i042",
+    "en": "cost an arm and a leg",
+    "example": "Repairing our old car cost an arm and a leg."
+  },
+  {
+    "id": "i043",
+    "en": "save for a rainy day",
+    "example": "We save for a rainy day instead of spending every bonus."
+  },
+  {
+    "id": "i044",
+    "en": "make ends meet",
+    "example": "With higher rent, it's harder for them to make ends meet."
+  },
+  {
+    "id": "i045",
+    "en": "be in two minds",
+    "example": "I'm in two minds about accepting the new job."
+  },
+  {
+    "id": "i046",
+    "en": "sleep on it",
+    "example": "It's a big decision, so I'd like to sleep on it."
+  },
+  {
+    "id": "i047",
+    "en": "give it a go",
+    "example": "I've never tried pottery, but I'd like to give it a go."
+  },
+  {
+    "id": "i048",
+    "en": "have second thoughts",
+    "example": "I booked the course, but now I'm having second thoughts."
+  },
+  {
+    "id": "i049",
+    "en": "go the extra mile",
+    "example": "Our guide went the extra mile to make everyone comfortable."
+  },
+  {
+    "id": "i050",
+    "en": "step by step",
+    "example": "She explained the new booking system to me step by step."
+  },
+  {
+    "id": "i051",
+    "en": "bite the bullet",
+    "example": "I finally bit the bullet and cancelled my expensive subscription."
+  },
+  {
+    "id": "i052",
+    "en": "the ball is in your court",
+    "example": "I have explained the options; the ball is in your court."
+  },
+  {
+    "id": "i053",
+    "en": "hit the nail on the head",
+    "example": "You hit the nail on the head: our instructions are unclear."
+  },
+  {
+    "id": "i054",
+    "en": "get straight to the point",
+    "example": "We only have five minutes, so get straight to the point."
+  },
+  {
+    "id": "i055",
+    "en": "beat around the bush",
+    "example": "Stop beating around the bush and tell me what happened."
+  },
+  {
+    "id": "i056",
+    "en": "spill the beans",
+    "example": "Come on, spill the beans: who organised the surprise dinner?"
+  },
+  {
+    "id": "i057",
+    "en": "let the cat out of the bag",
+    "example": "Dad let the cat out of the bag about our trip."
+  },
+  {
+    "id": "i058",
+    "en": "on the same page",
+    "example": "Let us check that we are on the same page."
+  },
+  {
+    "id": "i059",
+    "en": "back to square one",
+    "example": "The file disappeared, and we were back to square one."
+  },
+  {
+    "id": "i060",
+    "en": "a blessing in disguise",
+    "example": "The cancelled flight was a blessing in disguise: I met Anna."
+  },
+  {
+    "id": "i061",
+    "en": "turn over a new leaf",
+    "example": "He turned over a new leaf and stopped missing deadlines."
+  },
+  {
+    "id": "i062",
+    "en": "see the light at the end of the tunnel",
+    "example": "After months of repairs, we can see the light at the end of the tunnel."
+  },
+  {
+    "id": "i063",
+    "en": "the tip of the iceberg",
+    "example": "These complaints are only the tip of the iceberg."
+  },
+  {
+    "id": "i064",
+    "en": "a drop in the ocean",
+    "example": "One extra bus is a drop in the ocean here."
+  },
+  {
+    "id": "i065",
+    "en": "a double-edged sword",
+    "example": "Working from home can be a double-edged sword for parents."
+  },
+  {
+    "id": "i066",
+    "en": "a wild goose chase",
+    "example": "The wrong address sent us on a wild goose chase."
+  },
+  {
+    "id": "i067",
+    "en": "jump to conclusions",
+    "example": "Do not jump to conclusions before you read her message."
+  },
+  {
+    "id": "i068",
+    "en": "read between the lines",
+    "example": "Read between the lines: she does not support the plan."
+  },
+  {
+    "id": "i069",
+    "en": "take something with a pinch of salt",
+    "example": "I take anonymous reviews with a pinch of salt."
+  },
+  {
+    "id": "i070",
+    "en": "a rule of thumb",
+    "example": "As a rule of thumb, leave extra time for connections."
+  },
+  {
+    "id": "i071",
+    "en": "in the long run",
+    "example": "Buying better shoes may save you money in the long run."
+  },
+  {
+    "id": "i072",
+    "en": "at the end of the day",
+    "example": "At the end of the day, you must enjoy your work."
+  },
+  {
+    "id": "i073",
+    "en": "cut corners",
+    "example": "They cut corners on the roof, and it soon leaked."
+  },
+  {
+    "id": "i074",
+    "en": "think outside the box",
+    "example": "We need to think outside the box to solve this."
+  },
+  {
+    "id": "i075",
+    "en": "get the ball rolling",
+    "example": "I will get the ball rolling by booking a room."
+  },
+  {
+    "id": "i076",
+    "en": "keep someone in the loop",
+    "example": "Please keep me in the loop about any schedule changes."
+  },
+  {
+    "id": "i077",
+    "en": "learn the ropes",
+    "example": "It took me two weeks to learn the ropes here."
+  },
+  {
+    "id": "i078",
+    "en": "pull your weight",
+    "example": "Everyone needs to pull their weight during the busy season."
+  },
+  {
+    "id": "i079",
+    "en": "be snowed under",
+    "example": "I am snowed under with emails after my holiday."
+  },
+  {
+    "id": "i080",
+    "en": "go back to the drawing board",
+    "example": "The design failed, so we went back to the drawing board."
+  },
+  {
+    "id": "i081",
+    "en": "face the music",
+    "example": "I broke the camera and now must face the music."
+  },
+  {
+    "id": "i082",
+    "en": "put yourself in someone's shoes",
+    "example": "Put yourself in her shoes before you criticise her decision."
+  },
+  {
+    "id": "i083",
+    "en": "give someone the benefit of the doubt",
+    "example": "I gave her the benefit of the doubt this time."
+  },
+  {
+    "id": "i084",
+    "en": "burn the candle at both ends",
+    "example": "You are burning the candle at both ends this week."
+  },
+  {
+    "id": "i085",
+    "en": "burn your bridges",
+    "example": "Leave politely; you do not want to burn your bridges."
+  },
+  {
+    "id": "i086",
+    "en": "cross that bridge when you come to it",
+    "example": "We will cross that bridge when we come to it."
+  },
+  {
+    "id": "i087",
+    "en": "put all your eggs in one basket",
+    "example": "Apply elsewhere too; do not put all your eggs in one basket."
+  },
+  {
+    "id": "i088",
+    "en": "keep your options open",
+    "example": "I have not signed yet; I am keeping my options open."
+  },
+  {
+    "id": "i089",
+    "en": "sit on the fence",
+    "example": "Stop sitting on the fence and tell us your opinion."
+  },
+  {
+    "id": "i090",
+    "en": "go with the flow",
+    "example": "On holiday, I prefer to relax and go with the flow."
+  },
+  {
+    "id": "i091",
+    "en": "go out of your way",
+    "example": "Our host went out of her way to find vegetarian food."
+  },
+  {
+    "id": "i092",
+    "en": "take something for granted",
+    "example": "I took reliable internet for granted until we moved."
+  },
+  {
+    "id": "i093",
+    "en": "get carried away",
+    "example": "I got carried away and bought six books instead of one."
+  },
+  {
+    "id": "i094",
+    "en": "lose track of time",
+    "example": "I lost track of time while reading that novel."
+  },
+  {
+    "id": "i095",
+    "en": "a breath of fresh air",
+    "example": "Her practical approach was a breath of fresh air."
+  },
+  {
+    "id": "i096",
+    "en": "the last straw",
+    "example": "Another rude message was the last straw, so I left."
+  },
+  {
+    "id": "i097",
+    "en": "when it rains, it pours",
+    "example": "My phone broke and I missed my train: when it rains, it pours."
+  },
+  {
+    "id": "i098",
+    "en": "actions speak louder than words",
+    "example": "He promises to help, but actions speak louder than words."
+  },
+  {
+    "id": "i099",
+    "en": "every cloud has a silver lining",
+    "example": "The trip was cancelled, but every cloud has a silver lining."
+  },
+  {
+    "id": "i100",
+    "en": "don't judge a book by its cover",
+    "example": "The café looks ordinary, but don't judge a book by its cover."
+  }
+]
